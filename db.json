@@ -164,10 +164,6 @@
         { "registro": "23", "nome": "Wilson Mendes", "funcao": "Web Developer" },
         { "registro": "24", "nome": "Ximena Costa", "funcao": "Xilografista" },
         { "registro": "25", "nome": "Yasmin Oliveira", "funcao": "Youtuber" },
-        { "registro": "26", "nome": "Zé Carlos", "funcao": "Zoólogo" },
-        { "registro": "27", "nome": "Andreia Alves", "funcao": "Arquiteta" },
-        { "registro": "28", "nome": "Bruno Ferreira", "funcao": "Bombeiro" },
-        { "registro": "29", "nome": "Carla Santos", "funcao": "Cientista de Dados" },
-        { "registro": "30", "nome": "Daniel Ribeiro", "funcao": "Diretor de Arte" }
+        { "registro": "26", "nome": "Zé Carlos", "funcao": "Zoólogo" }
     ]
 }
